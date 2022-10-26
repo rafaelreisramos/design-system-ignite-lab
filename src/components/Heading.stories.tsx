@@ -53,5 +53,10 @@ export const CustomComponent: StoryObj<HeadingProps> = {
         disable: true,
       },
     },
+    asChild: {
+      table: {
+        disable: true,
+      },
+    },
   },
 }

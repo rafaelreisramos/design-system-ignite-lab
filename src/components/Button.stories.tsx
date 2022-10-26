@@ -8,6 +8,7 @@ export default {
   args: {
     children: 'Button text',
   },
+  argTypes: {},
 } as Meta<ButtonProps>
 
 export const Default: StoryObj<ButtonProps> = {}

@@ -7,6 +7,7 @@ export default {
   title: 'Components/Checkbox',
   component: Checkbox,
   args: {},
+  argTypes: {},
   decorators: [
     (Story) => {
       return (
